@@ -42,7 +42,7 @@
 }
 body {
   background: var(--body-bg);
-  background-image: url("./images/hero\ bg\ gradient.png"),
+  background-image: url("./Images/hero\ bg\ gradient.png"),
     url("./Images/bg.svg");
   background-size: 100%, 140rem;
   background-position: top left, top center;
@@ -369,7 +369,7 @@ hr {
 /* ------------ NFT Collections ----------- */
 /* ----------------------------  */
 .nft-collection-section {
-  background-image: url("./images/nft\ collection\ bg.png");
+  background-image: url("./Images/nft\ collection\ bg.png");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: left center;
@@ -453,7 +453,7 @@ hr {
 
 @media (min-width: 992px) {
   .nft-collection-section {
-    background-image: url("./images/nft\ collection\ bg.png");
+    background-image: url("./Images/nft\ collection\ bg.png");
     background-repeat: no-repeat;
     background-size: 30rem;
     background-position: left center;
@@ -580,7 +580,7 @@ hr {
 
 @media (min-width: 992px) {
   .features-section {
-    background-image: url("./images/Choose\ us\ bg.png");
+    background-image: url("./Images/Choose\ us\ bg.png");
     background-repeat: no-repeat;
     background-size: 80% 100%;
     padding: 7em;
@@ -626,7 +626,7 @@ hr {
 /* ------------ create-sell-section ----------- */
 /* ----------------------------  */
 .create-sell-section {
-  background-image: url("./images/curve.png");
+  background-image: url("./Images/curve.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom center;
